@@ -21,10 +21,6 @@ Delve into the world of diabetes data with this project, where insightful visual
 ## Potential Impact
 This project holds the potential to make a real impact in the healthcare sector. Empowering stakeholders with accurate predictions can lead to more proactive and personalized diabetes management, contributing to improved patient outcomes and healthcare decision-making.
 
-Uploading demo.mp4…
-
-
-
 Happy exploring and predicting!
 
 
