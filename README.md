@@ -14,7 +14,7 @@ Delve into the world of diabetes data with this project, where insightful visual
 ## How to Use
 1. **Clone the Repository**: `git clone https://github.com/Rakhiss-Bouchra/diabetes-analysis-prediction.git`
 2. **Install Dependencies**: `pip install -r requirements.txt`
-3. **Run the Application**: `streamlit run app.py`
+3. **Run the Application**: `streamlit run Diabetes_App.py`
 4. **Access Interfaces**: Open your browser and navigate to the provided local address (usually `http://localhost:8501`).
 5. **Explore and Predict**: Utilize the visualization interface for data analysis and the prediction interface for forecasting diabetes outcomes.
 
