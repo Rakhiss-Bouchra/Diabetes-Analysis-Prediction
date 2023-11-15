@@ -21,6 +21,14 @@ Delve into the world of diabetes data with this project, where insightful visual
 ## Potential Impact
 This project holds the potential to make a real impact in the healthcare sector. Empowering stakeholders with accurate predictions can lead to more proactive and personalized diabetes management, contributing to improved patient outcomes and healthcare decision-making.
 
+Demo:
+
+
+
+https://github.com/Rakhiss-Bouchra/Diabetes-Analysis-Prediction/assets/100072520/e1e64704-7118-4668-9199-34a6fa3cd316
+
+
+
 Happy exploring and predicting!
 
 
